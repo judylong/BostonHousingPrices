@@ -19,4 +19,4 @@ $ jupyter notebook BostonHousingPrices.ipynb
 ```
 
 ## View Static Version
-To view a static version of this notebook, click [here]('./BostonHousingPrices.ipynb').
+To view a static version of this notebook, click [here](BostonHousingPrices.ipynb).
